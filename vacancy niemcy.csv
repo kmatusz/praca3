@@ -1,0 +1,24 @@
+﻿;BBDL1.A.DE.N.VAC.VBA000.A0000.A00.D00.0.ABA.A;BBDL1.A.DE.N.VAC.VBA000.A0000.A00.D00.0.ABA.A_FLAGS
+;Reported vacancies, total / Germany / Total / Absolute value / Unadjusted figure;
+unit;Anzahl;
+unit multiplier;one;
+last update;03.05.2017 10:51;
+2000;450063;
+2001;434037;
+2002;374963;
+2003;269836;
+2004;206850;
+2005;255758;
+2006;354288;
+2007;423440;
+2008;389048;
+2009;300641;
+2010;359349;
+2011;466288;
+2012;477528;
+2013;456975;
+2014;490310;
+2015;568743;
+2016;655490;
+;Source: Federal Employment Agency.;
+;Methodology: Up to and including December 2004 month-end figures, as of January 2005 mid-month figures. Reported vacancies excluding promoted jobs and seasonal employment.;
